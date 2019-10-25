@@ -1,10 +1,10 @@
 # Wave Bring-Your-Own-Code Submission
 
-Applicants for the engineering roles at Wave may choose to submit their own code in order to be considered for an onsite interview. The goal is to have something that we can have a meanigful in-person discussion where we can understand your strengths and your thought processes.
+Applicants for the engineering roles at Wave may choose to submit their own code in order to be considered for an onsite interview. The goal is to have something that we can have a meanigful in-person discussion where we can understand your strengths and your thought processes. We ask that you only consider this option if your submission is something **you're really excited and proud about**, and that it easily showcases your unique qualities as a developer.
 
 ## Requirements
 
-We ask that you have had active work in the submission within the *last year*, so that we are assessing you on your most current skills, and concepts are still relevant.
+We ask that you have had active work in the submission within the **last year**, so that we are assessing you on your most current skills, and concepts are still relevant.
 
 Along with your project, please submit a write-up detailing:
  - What the project is about
